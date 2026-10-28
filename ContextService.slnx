@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/BusinessLogic/">
+    <Project Path="ContextService.Business/ContextService.Business.csproj" />
+  </Folder>
+  <Folder Name="/DataAccess/">
+    <Project Path="ContextService.Data/ContextService.Data.csproj" />
+  </Folder>
+  <Folder Name="/LLMIntegration/">
+    <Project Path="ContextService.LLM/ContextService.LLM.csproj" />
+  </Folder>
+  <Folder Name="/Models/">
+    <Project Path="ContextService.Models/ContextService.Models.csproj" />
+  </Folder>
+  <Project Path="ContextService.API/ContextService.API.csproj" />
+</Solution>
